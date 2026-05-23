@@ -1,0 +1,14 @@
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\bin\Debug\net10.0\Zad 3 średnia ocen CS.exe
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\bin\Debug\net10.0\Zad 3 średnia ocen CS.deps.json
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\bin\Debug\net10.0\Zad 3 średnia ocen CS.runtimeconfig.json
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\bin\Debug\net10.0\Zad 3 średnia ocen CS.dll
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\bin\Debug\net10.0\Zad 3 średnia ocen CS.pdb
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.AssemblyInfoInputs.cache
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.AssemblyInfo.cs
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.csproj.CoreCompileInputs.cache
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.dll
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\refint\Zad 3 średnia ocen CS.dll
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.pdb
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\Zad 3 średnia ocen CS.genruntimeconfig.cache
+C:\Users\barto\source\repos\Zad 3 średnia ocen CS\obj\Debug\net10.0\ref\Zad 3 średnia ocen CS.dll
