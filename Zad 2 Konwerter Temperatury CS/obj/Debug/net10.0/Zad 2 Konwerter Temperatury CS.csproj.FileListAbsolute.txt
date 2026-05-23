@@ -1,0 +1,14 @@
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\bin\Debug\net10.0\Zad 2 Konwerter Temperatury CS.exe
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\bin\Debug\net10.0\Zad 2 Konwerter Temperatury CS.deps.json
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\bin\Debug\net10.0\Zad 2 Konwerter Temperatury CS.runtimeconfig.json
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\bin\Debug\net10.0\Zad 2 Konwerter Temperatury CS.dll
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\bin\Debug\net10.0\Zad 2 Konwerter Temperatury CS.pdb
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.AssemblyInfoInputs.cache
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.AssemblyInfo.cs
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.csproj.CoreCompileInputs.cache
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.dll
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\refint\Zad 2 Konwerter Temperatury CS.dll
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.pdb
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\Zad 2 Konwerter Temperatury CS.genruntimeconfig.cache
+C:\Users\barto\source\repos\Zad 2 Konwerter Temperatury CS\obj\Debug\net10.0\ref\Zad 2 Konwerter Temperatury CS.dll
