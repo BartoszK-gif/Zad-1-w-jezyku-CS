@@ -1,0 +1,15 @@
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.AssemblyInfoInputs.cache
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.AssemblyInfo.cs
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.csproj.CoreCompileInputs.cache
+C:\Users\barto\source\repos\Zad 1 CS\bin\Debug\net10.0\Zad 1 CS.exe
+C:\Users\barto\source\repos\Zad 1 CS\bin\Debug\net10.0\Zad 1 CS.deps.json
+C:\Users\barto\source\repos\Zad 1 CS\bin\Debug\net10.0\Zad 1 CS.runtimeconfig.json
+C:\Users\barto\source\repos\Zad 1 CS\bin\Debug\net10.0\Zad 1 CS.dll
+C:\Users\barto\source\repos\Zad 1 CS\bin\Debug\net10.0\Zad 1 CS.pdb
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.dll
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\refint\Zad 1 CS.dll
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.pdb
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.genruntimeconfig.cache
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\ref\Zad 1 CS.dll
+C:\Users\barto\source\repos\Zad 1 CS\obj\Debug\net10.0\Zad 1 CS.sourcelink.json
